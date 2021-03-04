@@ -81,7 +81,7 @@
           },
           "url": "https://github.com/JunyoungKo/arduino_attiny/archive/9eccbacb416fdba31a491617899b28008dff18c8.zip",
           "archiveFileName": "9eccbacb416fdba31a491617899b28008dff18c8.zip",
-          "checksum": "SHA-256:1654a8968fea7d599255bd18430786f9c84340606e7a678b9cf9a3cd49d94ad7",
+          "checksum": "SHA-256:8df964dde10337a6d6b9e13acd870046001f9e6a8bd062c4e96a301d9450a6d1",
           "size": "5913",
           "boards": [
             {"name": "ATtiny25"},
